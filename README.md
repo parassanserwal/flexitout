@@ -1,6 +1,5 @@
 # Flex It Out | Bajaj
 
-![Project Preview](./public/preview.png)
 
 ## Overview
 
